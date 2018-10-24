@@ -8,8 +8,10 @@ The mutual information, denoted by **I(X;Y)**, is an information theoretic conce
 
 ![mi](https://user-images.githubusercontent.com/44330120/47404788-4f4a3980-d79a-11e8-9449-bc8f0cb5f14c.png)
 
+Since even intuitively information is always "in something about something else", the mutual information actualy captures the amount of information in **X** about **Y**.
+
 ## Mutual Information Revisited
-This project quentifies the mutual information between the source message and the hidden layers, and the mutual information between the hidden layers and the decoded message at the destination.
+In an effort to better understand data representation in autoencoders, this project quentifies the mutual information between the source message and the hidden layers, and the mutual information between the hidden layers and the decoded message at the destination.
 
 ## Prerequisites 
 The code requires:
