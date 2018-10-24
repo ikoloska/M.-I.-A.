@@ -1,4 +1,4 @@
-# *M.-I.-A.*
+# *M.I.A.*
 <p align="center">
 Quantifies the mutual information in an autoencoder mimicking an end-to-end communication system. 
 </p>  
