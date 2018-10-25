@@ -6,7 +6,7 @@ Quantifies the mutual information in an autoencoder mimicking an end-to-end comm
 ## Mutual Information Overview
 The mutual information, denoted by **I(X;Y)**, is an information theoretic concept that quantifies the level of depandency between two random variables, **X** and **Y**, with entropies **H(X)** and **H(Y)**, respectively.
 
-![mi_v1](https://user-images.githubusercontent.com/44330120/47536229-b71f9200-d90a-11e8-803d-8126cc8752cb.png)
+![mi_v1](https://user-images.githubusercontent.com/44330120/47536327-25645480-d90b-11e8-88bc-01d6dbe12744.png)
 
 Since even intuitively information is always "in something about something else", the mutual information actualy captures the amount of information in **X** about **Y**.
 
